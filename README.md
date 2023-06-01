@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenad2&label=Profile%20views&color=0e75b6&style=flat" alt="naveenad2" /> </p>
 
-- 🔭 I’m currently working on **An operating system for small sale purpose**
+- 🔭 I’m currently working on **An operating system for small scale purpose**
 
-- 🌱 I’m currently learning **Tensorflow,keras,deeplearning**
+- 🌱 I’m currently learning **Tensorflow, keras, deeplearning, kernel, operating systems**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **Spring framework ,django, react, bootstrap, assembly**
+- 💬 Ask me about **Java, Python, Javascript, c++, Spring framework, django, react, bootstrap, assembly**
 
 - 📫 How to reach me **naveenad260@gmail.com**
 
